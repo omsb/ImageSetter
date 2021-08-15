@@ -1,0 +1,15 @@
+{
+  "name": "dev.omusubi.imagesetter",
+  "displayName": "Image Setter",
+  "version": "1.0.0",
+  "unity": "2019.4",
+  "description": "A tool that lists the images included in SpriteAtlas and assists in setting the Image.",
+  "documentationUrl": "https://github.com/omsb/ImageSetter",
+  "dependencies": {
+  },
+  "author": {
+    "name": "omusubi",
+    "email": "h.tawara.work@gmail.com",
+    "url": "https://www.omusubi-tech.com/"
+  }
+}
