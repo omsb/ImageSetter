@@ -19,3 +19,10 @@ https://github.com/omsb/ImageSetter.git?path=Assets/ImageSetter<br>
 5.一覧で設定したい画像の「Set」ボタンを選択<br>
 
 ![manual_image_setter](https://user-images.githubusercontent.com/1855970/129476519-ab197c7f-03a7-4757-943a-8cc533c3da1f.gif)
+
+## 補足
+「Page Max Size」はページ内に表示する最大数です。<br>
+40以上程度になると画像のプレビューがちらつくため、その回避に入れています。<br>
+ちらつく場合はこちらの数を減らしてください。<br>
+
+![image](https://user-images.githubusercontent.com/1855970/129477332-010f7b97-cf86-45e4-9364-814d92e7ca23.png)
