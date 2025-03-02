@@ -8,7 +8,7 @@ SpriteAtlasに含まれる画像を一覧化してImageの設定を補助する�
 ![image](https://user-images.githubusercontent.com/1855970/129476323-f9a8d6a2-c703-4d3d-a2ae-ec54bf1c8f70.png)
 
 PackageManagerより「Add package from git URL」に以下のURLを入力してください。<br>
-https://github.com/omsb/ImageSetter.git?path=Assets/ImageSetter<br>
+https://github.com/omsb/ImageSetter.git<br>
 
 # 使い方
 1.上部タブより「OMSB」>「ImageSetter」を選択<br>
